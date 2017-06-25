@@ -1,0 +1,21 @@
+Operacja:;Wielkosc strukutry:;Gestosc:;Czas[us]
+FulkersonFordDFSMatrixAvg;20;25;61.009359
+FulkersonFordDFSMatrixAvg;40;25;327.494192
+FulkersonFordDFSMatrixAvg;60;25;961.579867
+FulkersonFordDFSMatrixAvg;80;25;1983.801685
+FulkersonFordDFSMatrixAvg;100;25;2876.004790
+FulkersonFordDFSMatrixAvg;20;50;89.959471
+FulkersonFordDFSMatrixAvg;40;50;591.667914
+FulkersonFordDFSMatrixAvg;60;50;1126.711654
+FulkersonFordDFSMatrixAvg;80;50;1982.893044
+FulkersonFordDFSMatrixAvg;100;50;3904.128828
+FulkersonFordDFSMatrixAvg;20;75;87.217743
+FulkersonFordDFSMatrixAvg;40;75;455.517845
+FulkersonFordDFSMatrixAvg;60;75;967.655914
+FulkersonFordDFSMatrixAvg;80;75;1880.019010
+FulkersonFordDFSMatrixAvg;100;75;3867.542176
+FulkersonFordDFSMatrixAvg;20;99;74.421699
+FulkersonFordDFSMatrixAvg;40;99;661.013072
+FulkersonFordDFSMatrixAvg;60;99;1005.976887
+FulkersonFordDFSMatrixAvg;80;99;1982.904896
+FulkersonFordDFSMatrixAvg;100;99;4895.302757
